@@ -1,6 +1,6 @@
 {
   "name": "st",
-  "version": "0.5.5",
+  "version": "0.5.5-lineaje-01",
   "description": "A module for serving static files.  Does etags, caching, etc.",
   "main": "st.js",
   "bin": "bin/server.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/isaacs/st"
+    "url": "https://github.com/lineaje-labs-gos/isaacs-st"
   },
   "keywords": [
     "static",
@@ -35,5 +35,11 @@
     "cache"
   ],
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
-  "license": "ISC"
+  "license": "ISC",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ]
 }
